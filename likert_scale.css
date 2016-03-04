@@ -43,15 +43,4 @@
 
 }
 .likert li label {width:100%;}
-.buttons {
-  margin:30px 0;
-  padding:0 4.25%;
-  text-align:right
-}
-.buttons button {
-  padding: 5px 10px;
-  background-color: #67ab49;
-  border: 0;
-  border-radius: 3px;
-}
 
