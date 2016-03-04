@@ -43,5 +43,9 @@
 
 }
 .likert li label {width:100%;}
-.test-likert {color: #red;}
+.test-likert {
+  color: #red;
+  font-style: italic;
+  font-size: 16;
+}
 
