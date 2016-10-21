@@ -35,7 +35,6 @@
   vertical-align: top;
 }
 .likert li input[type=radio] {
-  /* fooo */
   display:block;
   position:relative;
   top:0;
