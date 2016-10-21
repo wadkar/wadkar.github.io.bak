@@ -27,3 +27,4 @@ github_username: wadkar
 # Build settings
 markdown: kramdown
 theme: minima
+repository: wadkar/wadkar.github.io
